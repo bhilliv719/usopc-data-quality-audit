@@ -52,7 +52,7 @@ The analysis utilized the `cleaned_USOPC_data.csv` core matrix, focusing on the 
 ---
 
 ## 🖥️ Dashboard Visualization
-![USOPC Data Quality Dashboard](dashboard/phase1_metrics.png)
+![USOPC Data Quality Dashboard](dashboards/phase1_metrics.png)
 
 ---
 
